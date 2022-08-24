@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Desafio Agger\Desafio Agger\bin\Debug\net6.0\Desafio Agger.exe
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Desafio Agger\Desafio Agger\bin\Debug\net6.0\Desafio Agger.deps.json
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Desafio Agger\Desafio Agger\bin\Debug\net6.0\Desafio Agger.runtimeconfig.json
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Desafio Agger\Desafio Agger\bin\Debug\net6.0\Desafio Agger.dll
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Desafio Agger\Desafio Agger\bin\Debug\net6.0\Desafio Agger.pdb
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Desafio Agger\Desafio Agger\obj\Debug\net6.0\Desafio Agger.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Desafio Agger\Desafio Agger\obj\Debug\net6.0\Desafio Agger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Desafio Agger\Desafio Agger\obj\Debug\net6.0\Desafio Agger.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Desafio Agger\Desafio Agger\obj\Debug\net6.0\Desafio Agger.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Desafio Agger\Desafio Agger\obj\Debug\net6.0\Desafio Agger.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Desafio Agger\Desafio Agger\obj\Debug\net6.0\Desafio Agger.dll
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Desafio Agger\Desafio Agger\obj\Debug\net6.0\refint\Desafio Agger.dll
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Desafio Agger\Desafio Agger\obj\Debug\net6.0\Desafio Agger.pdb
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Desafio Agger\Desafio Agger\obj\Debug\net6.0\Desafio Agger.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Desafio Agger\Desafio Agger\obj\Debug\net6.0\ref\Desafio Agger.dll
